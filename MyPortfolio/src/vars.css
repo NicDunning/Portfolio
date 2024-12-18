@@ -3,9 +3,20 @@
     --color-text: #fff;
     --color-primary: #576cbc;
     --color-secondary: #19376d;
+    --color-tertiary: 24, 54, 110;
     --color-dark: #0b2447;
     --color-bg: #04152d;
+    --color-panel: 12,12,12;
 
     /* Fonts */
-    --font-roboto: "Roboto"
+    --font-roboto: "Roboto";
+
+    /* Sizes */
+    --tiny-p: 5%;
+    --small-p: 10%;
+    --medium-p: 25%;
+    --large-p: 50%;
+
+
+
 }

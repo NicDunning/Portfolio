@@ -1,10 +1,11 @@
 @import "../../vars.css";
 
 .container {
-    margin-top: 76px;
+    background-color: rgba(var(--color-panel), 0.6);
     color: var(--color-text);
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: 0 var(--small-p);
+    border-radius: 16px;
+    margin-top: 76px;
     padding: 72px;
 }
 
