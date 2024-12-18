@@ -3,8 +3,8 @@
 .container {
     margin-top: 76px;
     color: var(--color-text);
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: var(--small-p);
+    margin-right: var(--small-p);
     padding: 72px;
 }
 
