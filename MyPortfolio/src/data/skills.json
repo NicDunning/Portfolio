@@ -29,38 +29,38 @@
   },
   {
     "title": "Android",
-    "imgSrc": "skills/android.png"
+    "imageSrc": "skills/android.png"
   },
   {
     "title": "Android Studio",
-    "imgSrc": "skills/androidstudio.png"
+    "imageSrc": "skills/androidstudio.png"
   },
   {
     "title": "C++",
-    "imgSrc": "skills/C++.png"
+    "imageSrc": "skills/C++.png"
   },
   {
     "title": "Docker",
-    "imgSrc": "skills/docker.png"
+    "imageSrc": "skills/docker.png"
   },
   {
     "title": "Unreal Engine Blueprints",
-    "imgSrc": "skills/UEBlueprints.png"
+    "imageSrc": "skills/UEBlueprints.png"
   },
   {
     "title": "Unreal Engine",
-    "imgSrc": "skills/UE.png"
+    "imageSrc": "skills/UE.png"
   },
   {
     "title": "JavaScript",
-    "imgSrc": "skills/javascript.png"
+    "imageSrc": "skills/javascript.png"
   },
   {
     "title": "Godot",
-    "imgSrc": "skills/Godot.png"
+    "imageSrc": "skills/Godot.png"
   },
   {
     "title": "Python",
-    "imgSrc": "skills/Python.png"
+    "imageSrc": "skills/Python.png"
   }
 ]
