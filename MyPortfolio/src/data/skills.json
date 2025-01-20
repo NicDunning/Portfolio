@@ -26,5 +26,41 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Android",
+    "imgSrc": "skills/android.png"
+  },
+  {
+    "title": "Android Studio",
+    "imgSrc": "skills/androidstudio.png"
+  },
+  {
+    "title": "C++",
+    "imgSrc": "skills/C++.png"
+  },
+  {
+    "title": "Docker",
+    "imgSrc": "skills/docker.png"
+  },
+  {
+    "title": "Unreal Engine Blueprints",
+    "imgSrc": "skills/UEBlueprints.png"
+  },
+  {
+    "title": "Unreal Engine",
+    "imgSrc": "skills/UE.png"
+  },
+  {
+    "title": "JavaScript",
+    "imgSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Godot",
+    "imgSrc": "skills/Godot.png"
+  },
+  {
+    "title": "Python",
+    "imgSrc": "skills/Python.png"
   }
 ]
