@@ -26,13 +26,16 @@
     width: 50%;
     display: flex;
     flex-wrap: wrap;
-    gap: 36px;
+    gap: 24px;
+    column-gap: 10px;
+    padding: 10px;
 }
 
 .skill {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     gap: 12px;
 }
 
@@ -42,8 +45,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
 }
 
 .skillImageContainer img {
@@ -51,7 +54,7 @@
 }
 
 .skill p {
-    font-size: 24px;
+    font-size: 16px;
     font-family: var(--font-roboto), serif;
     font-weight: 500;
 }
