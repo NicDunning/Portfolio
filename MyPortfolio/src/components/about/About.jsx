@@ -8,7 +8,6 @@ export const About = () => {
         <section className={styles.container} id="about">
             <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
-                <img className={styles.aboutImage} src={getImageUrl("about/aboutImage.png")} alt={"Me sitting with a laptop"}/>
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/cursorIcon.png")} alt={"Cursor icon"}/>
@@ -28,7 +27,7 @@ export const About = () => {
                                 Backend Developer
                             </h3>
                             <p>
-                                I have experience developing fast and optimized backend systems and APIs.
+                                I have experience developing fast and robust backend systems and APIs.
                             </p>
                         </div>
                     </li>
@@ -39,7 +38,19 @@ export const About = () => {
                                 Multi System Architect
                             </h3>
                             <p>
-                                I have created apps with effective communication spanning different languages and locations
+                                I have developed multi-piece apps with effective interactions spanning different
+                                languages and locations
+                            </p>
+                        </div>
+                    </li>
+                    <li className={styles.aboutItem}>
+                        <img src={getImageUrl("about/3dprinterIcon.png")} alt={"UI Icon"}/>
+                        <div className={styles.aboutItemText}>
+                            <h3>
+                                3D Printer Enthusiast
+                            </h3>
+                            <p>
+                                In my spare time I model and print 3D objects for friends and family.
                             </p>
                         </div>
                     </li>
