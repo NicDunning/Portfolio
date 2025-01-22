@@ -1,26 +1,32 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "VR 360 Image Viewer",
+    "imageSrc": ["projects/FactoryLoad.png", "projects/factory_1.png", "projects/factory_2.png", "projects/factory_3.png"],
+    "description": "This is a project that was developed for a client. It allowed the upload, linking (via a web app), and viewing of 360 images on desktop or using a VR Headset.",
+    "skills": ["Unreal Engine", "Python", "JavaScript", "HTML", "CSS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demoEnabled": false,
+    "source": "https://www.github.com",
+    "sourceEnabled": false
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Portfolio + API",
+    "imageSrc": ["projects/project.png"],
+    "description": "This website itself. It has a FastAPI backend attached to it for future projects.",
+    "skills": ["React", "Python", "Node", "Docker", ""],
+    "demo": "https://nicolasdunningportfolio.vercel.app/",
+    "demoEnabled": true,
+    "source": "https://www.github.com",
+    "sourceEnabled": false
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "'You are the weapon' Game Jam",
+    "imageSrc": ["projects/project.png"],
+    "description": "This is a project developed for a game jam. Currently in development.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demoEnabled": false,
+    "source": "https://www.github.com",
+    "sourceEnabled": false
   }
 ]
