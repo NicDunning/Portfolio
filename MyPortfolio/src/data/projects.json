@@ -20,7 +20,7 @@
     "sourceEnabled": false
   },
   {
-    "title": "'You are the weapon' Game Jam",
+    "title": "'You are the weapon'",
     "imageSrc": ["projects/project.png"],
     "description": "This is a project developed for a game jam. Currently in development.",
     "skills": ["React", "Express", "Node"],
