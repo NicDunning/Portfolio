@@ -13,7 +13,7 @@
     "title": "Portfolio + API",
     "imageSrc": ["projects/project.png"],
     "description": "This website itself. It has a FastAPI backend attached to it for future projects.",
-    "skills": ["React", "Python", "Node", "Docker", ""],
+    "skills": ["React", "Python", "Node", "Docker"],
     "demo": "https://nicolasdunningportfolio.vercel.app/",
     "demoEnabled": true,
     "source": "https://www.github.com",
